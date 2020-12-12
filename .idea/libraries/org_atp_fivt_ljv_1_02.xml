@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.atp-fivt:ljv:1.02" type="repository">
+    <properties maven-id="org.atp-fivt:ljv:1.02" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ljv-1.02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.26.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
