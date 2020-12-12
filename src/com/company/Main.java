@@ -13,7 +13,8 @@ import java.util.TreeSet;
 public class Main {
 
     public static void main(String[] args) {
-        browse(new LJV(), new LinkedList<Integer> (Arrays.asList(5,3,4,3,4)));
+        // https://dzone.com/articles/what-can-we-learn-from-java-data-structures-visual
+        browse(new LJV(), new TreeSet<Integer> (Arrays.asList(5,3,4,3,4)));
     }
 
     public static void browse(LJV ljv, Object obj) {
